@@ -7,3 +7,5 @@ The program uses Visual Basic to calculate how much the customer will pay in hou
 4. After input, the user then clicks on the Display bill button to generate the total cost for fabor per/hour. 
 and cost of parts and supplies to be combined in a total cost for both.
 5. Output will show the user the total costs for the auto repair service.
+
+***Note; Labor charge is $35 per hour and 0.05 percent sales tax is already include into the program.
